@@ -27,19 +27,30 @@ and multi-role platforms.
 
 <p>🍌 Don’t forget to refactor before you optimize 🍌</p>
 
-<img align="right"
-     src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-     width="360" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
 <h2>⚡ A Few Quick Facts</h2>
+<hr />
+
 <ul>
-  <li>🔭 Currently working on multiple Flutter apps in production.</li>
-  <li>🧠 Strong in <strong>Clean Architecture</strong>, <strong>MVVM</strong>, and <strong>SOLID</strong>.</li>
-  <li>📦 State Management: <strong>BLoC, Cubit, Provider, Riverpod, GetX</strong>.</li>
+  <li>🛠 Currently working on multiple Flutter apps in production.</li>
+  <li>🧠 Strong in Clean Architecture, MVVM, and SOLID.</li>
+  <li>📦 State Management: BLoC, Cubit, Provider, Riverpod, GetX.</li>
   <li>💳 Payments: PayMob, Fawry.</li>
   <li>🔔 Notifications & Analytics: FCM, OneSignal, AppsFlyer, UXCam.</li>
-  <li>👨‍💻 Most of my work is available on <a href="https://github.com/AhmedNasserZakii">GitHub</a>.</li>
+  <li>👨‍💻 Most of my work is available on GitHub.</li>
 </ul>
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" />
+
+</td>
+</tr>
+</table>
 
 <h2>🚀 Featured Projects</h2>
 
