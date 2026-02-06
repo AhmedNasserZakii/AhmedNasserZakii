@@ -25,14 +25,15 @@ and multi-role platforms.
 </a>
 </p>
 
-<p>🍌 Don’t forget to refactor before you optimize 🍌</p>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
 <h2>⚡ A Few Quick Facts</h2>
-<hr />
+
+<hr width="60%" align="left" />
+
+<img
+  align="right"
+  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+  width="320"
+/>
 
 <ul>
   <li>🛠 Currently working on multiple Flutter apps in production.</li>
@@ -42,16 +43,6 @@ and multi-role platforms.
   <li>🔔 Notifications & Analytics: FCM, OneSignal, AppsFlyer, UXCam.</li>
   <li>👨‍💻 Most of my work is available on GitHub.</li>
 </ul>
-
-</td>
-<td width="35%" align="right">
-
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" />
-
-</td>
-</tr>
-</table>
-
 <h2>🚀 Featured Projects</h2>
 
 <ul>
