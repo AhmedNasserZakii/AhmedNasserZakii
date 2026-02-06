@@ -14,15 +14,18 @@ and multi-role platforms.
 </p>
 
 <p>
-<a href="https://preview--ahmed-nasser.lovable.app/">
-  <img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox" />
-</a>
-<a href="https://github.com/AhmedNasserZakii">
-  <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/AhmedNasserZakii/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" />
-</a>
+  <a href="https://preview--ahmed-nasser.lovable.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox" />
+  </a>
+  <a href="https://github.com/AhmedNasserZakii">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/AhmedNasserZakii/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:Ahmednasserzakii@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-Ahmednasserzakii@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <h2>⚡ A Few Quick Facts</h2>
