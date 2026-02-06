@@ -75,4 +75,4 @@ and multi-role platforms.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedNasserZakii&show_icons=true&count_private=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AhmedNasserZakii&show_icons=true&count_private=true" /> -->
